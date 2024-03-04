@@ -1,0 +1,146 @@
+
+.cabeca {
+    background-color: rgb(5, 63, 129);
+}
+
+.grades {
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+}
+
+.artigos img {
+max-width: 300px;
+display: block;
+border-radius: 20px;
+padding-left: 5px;
+margin-top: 20px;
+border-style: initial;
+background-color: rgb(0, 0, 0);
+
+}
+
+.cabeca img {
+    max-width: 100%;
+}
+
+.corpao {
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+background-color: rgb(1, 45, 95);
+}
+
+
+.rodape p {
+
+font-size: 30px;
+color: azure;
+font-family:monospace;
+
+}
+
+.titulo {
+
+color: azure;
+font-family:monospace;
+padding-left: 20px;
+
+}
+
+.lista a {
+    color: rgb(255, 255, 255);
+
+}
+
+.lista li {
+    list-style: none;
+    width: 60%;
+    margin: 20px;
+
+}
+
+.grid {
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+padding-left: 265px;
+padding-right: 265px;
+
+}
+
+.artigos {
+
+    padding-left: 15px;
+}
+
+.rodatitulo {
+    color: rgb(209, 228, 228);
+    text-decoration: underline;
+}
+
+.materia img {
+    padding-left: 5px;
+width: 20%;
+background-color: rgb(12, 7, 1);
+border-radius: 20px;
+margin-left: 5px;
+display: block;
+border-style: initial;
+}
+
+.materia p {
+font-size: 15px;
+}
+
+.rodape {
+background-color: rgb(7, 50, 114);
+}
+
+.fim img {
+  padding-left: 15px;
+border-radius: 20px;
+}
+
+
+.fim {
+
+    background-color: rgb(13, 45, 92);
+
+}
+
+.materia {
+
+    background-color: rgb(15, 47, 95);
+
+display: block;
+
+}
+
+.rodape p {
+padding-left: 10px;
+padding-left: 10px;
+}
+
+.fim h1 {
+
+color: azure;
+text-align: center;
+text-decoration: underline;
+}
+
+.rodape a {
+
+padding-left: 28px;
+padding-bottom: 40px;
+
+}
+
+
+.lista p {
+
+    font-size: 40px;
+    color: azure;
+    text-align: center;
+}
+
